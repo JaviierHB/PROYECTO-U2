@@ -19,7 +19,7 @@
   "dependencies": {
     "async": "^2.6.0",
     "csv": "^2.0.0",
-    "handlebars": "^4.1.0",
+    "handlebars": "^4.7.7",
     "nodemailer": "^4.7.0",
     "package.json": "^2.0.1"
   }
